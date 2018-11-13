@@ -1,0 +1,8 @@
+E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.deps.json
+E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.runtimeconfig.json
+E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.runtimeconfig.dev.json
+E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.dll
+E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.pdb
+E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.fsprojAssemblyReference.cache
+E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.dll
+E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.pdb
