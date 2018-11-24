@@ -6,3 +6,5 @@ E:\HandsOnFsharp\HandsOnFsharp\bin\Debug\netcoreapp2.1\HandsOnFsharp.pdb
 E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.fsprojAssemblyReference.cache
 E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.dll
 E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.pdb
+E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.AssemblyInfoInputs.cache
+E:\HandsOnFsharp\HandsOnFsharp\obj\Debug\netcoreapp2.1\HandsOnFsharp.AssemblyInfo.fs
